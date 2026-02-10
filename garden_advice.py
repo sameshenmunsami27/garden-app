@@ -1,6 +1,3 @@
-# Variable to hold gardening advice
-advice = ""
-
 # Determine advice based on the season
 # Function to determine gardening advice based on user input
 
@@ -10,6 +7,8 @@ def get_gardening_advice(season, plant_type):
     This function takes the season and plant type and returns
     a combined string of gardening advice.
     """
+    # Variable to hold gardening advice
+
     advice = ""
 
     # Determine advice based on the season
