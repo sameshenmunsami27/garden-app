@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# Gardening Advice App
+# Variable to hold gardening advice
+advice = ""
+
+>>>>>>> 8e190d842facc3de9aa9fce5de95c83637e87c00
 # Determine advice based on the season
 # Function to determine gardening advice based on user input
 
